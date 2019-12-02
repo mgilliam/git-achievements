@@ -2,6 +2,7 @@
 <title>Matt Gilliam's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Weaver</title><description>Investigate old branches by using git reflog</description></item>
 <item><title>Apprentice Fisherman (Level 1)</title><description>Look for specified patterns in the current repository with git grep.</description></item>
 <item><title>Apprentice Author (Level 3)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Apprentice Thug (Level 1)</title><description>Forced pushed a branch with git push -f</description></item>
