@@ -2,6 +2,7 @@
 <title>Matt Gilliam's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Thug (Level 2)</title><description>Forced pushed a branch with git push -f</description></item>
 <item><title>Butcher (Level 4)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Cleaning lady (Level 5)</title><description>Remove untracked files from the working tree with git clean</description></item>
 <item><title>Apprentice Banker (Level 2)</title><description>Join two or more development histories together with git merge.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Apprentice Cleaning lady (Level 3)</title><description>Remove untracked files from the working tree with git clean</description></item>
 <item><title>Weaver</title><description>Investigate old branches by using git reflog</description></item>
 <item><title>Apprentice Fisherman (Level 1)</title><description>Look for specified patterns in the current repository with git grep.</description></item>
-<item><title>Apprentice Author (Level 3)</title><description>Made 2^Level commits using git commit.</description></item>
 </channel></rss>
